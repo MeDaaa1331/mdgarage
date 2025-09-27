@@ -23,3 +23,5 @@ https://youtu.be/n7dNtuJB1Pg?si=FqgtRaUD-ma1nGAH
 
 # Discord
 # https://discord.gg/Ze4m2Uyxjw
+
+<img width="1792" height="1024" alt="image" src="https://github.com/user-attachments/assets/08681389-57e5-423e-82cc-a01a7f2b5bbe" />
