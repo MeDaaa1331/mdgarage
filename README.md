@@ -17,6 +17,11 @@ Garage System using 3D Vehicle Models for Preview, Interactive Colors, Vehicle C
 - Discord logs on every action
 
 
+# Price
+- 5€
+- Buy on Discord (https://discord.gg/Ze4m2Uyxjw)
+
+
 # Preview
 https://youtu.be/n7dNtuJB1Pg?si=FqgtRaUD-ma1nGAH
 
